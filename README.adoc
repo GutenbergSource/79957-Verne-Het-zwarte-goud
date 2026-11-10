@@ -1,0 +1,29 @@
+= Over dit archief
+
+Dit archief bevat het TEI-bronbestand, evenals afgeleide tekst- en HTML-bestanden van een eboek dat is gepubliceerd door https://www.gutenberg.org/[Project Gutenberg]. Net als de versie die op Project Gutenberg is gepubliceerd, is dit eboek vrij van auteursrechten in de Verenigde Staten. Er wordt geen uitspraak gedaan over de auteursrechtelijke status buiten de Verenigde Staten.
+
+De versie die in dit archief wordt onderhouden, kan enigszins afwijken van de versie die bij Project Gutenberg wordt beheerd. Meestal worden correcties eerst hier aangebracht en pas daarna opnieuw op Project Gutenberg geplaatst. Wanneer je een probleem tegenkomt in deze tekst, meld het dan hier.
+
+== Over dit eboek
+
+[cols="1,3"]
+|===
+|Veld |Waarde
+
+|Titel |Het zwarte goud
+|Auteur |Jules Verne (1828–1905)
+|Illustrator |Jules-Descartes Férat (1829–1906)
+|Uitgever |Project Gutenberg, Urbana, Illinois, USA., 2026-11-08
+|Uitgiftedatum |2026-11-08
+|Beschikbaarheid |Dit eBoek is voor kosteloos gebruik door iedereen overal, met vrijwel geen beperkingen van welke soort dan ook. U mag het kopiëren, weggeven of hergebruiken onder de voorwaarden van de Project Gutenberg Licentie in dit eBoek of on-line op https://www.gutenberg.org/[www.gutenberg.org]. Dit eBoek is geproduceerd door het on-line gedistribueerd correctieteam op https://www.pgdp.net/[www.pgdp.net]. Dit boek is een vertaling van https://www.gutenberg.org/ebooks/5081[Les Indes noires], dat oorspronkelijk verscheen in 1877. Een Engelse vertaling is verschenen onder de titel https://www.gutenberg.org/ebooks/1355[The Underground City; Or, The Black Indies].
+|Aantal woorden |64785 (ongeveer 224 bladzijden) 
+|Trefwoord |Coal mines and mining -- Fiction
+|Trefwoord |Scotland -- Fiction
+|Trefwoord |Adventure stories
+|Trefwoord |Civilization, Subterranean -- Fiction
+|Trefwoord |Imaginary places
+|Trefwoord |Fantasy fiction, French -- Translations into Dutch
+|PG eboeknummer |https://www.gutenberg.org/ebooks/79957[79957]
+|QR-code voor download a|image::Processed/images@1/qr79957.png[QR code,148,148]
+|ISBN |979-8-238-79957-5
+|===
